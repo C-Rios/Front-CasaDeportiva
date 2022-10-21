@@ -1,0 +1,26 @@
+.banner_img{
+    width: 150px;
+    margin-right: 5%;
+}
+
+.banner_container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5%;
+}
+
+.banner-title{
+    font-style: italic;
+}
+
+.button-hub{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.button-menu{
+    margin: 0 30px;
+}

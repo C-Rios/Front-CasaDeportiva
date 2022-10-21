@@ -1,0 +1,22 @@
+.regresar-listado{
+    margin: 1%;
+}
+
+.form-items{
+    margin: 10px;
+}
+
+.send-button{
+    width: 2%;
+    height: 2%;
+    align-self: flex-end;
+}
+
+.imagen-tabla{
+    width: 100px;
+    height: 100px;
+}
+
+.catalogo-items{
+    margin: 0.5% 1.5%;
+}
